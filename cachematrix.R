@@ -1,4 +1,4 @@
-## The first function, makeCacheMatrix creates a matrix, then the function:
+## The first function, makeCacheMatrix creates a special "matrix" object that can cache its inverse. The function:
 ## set the value of the matrix
 ## get the value of the matrix
 ## set the inverse of the matrix
